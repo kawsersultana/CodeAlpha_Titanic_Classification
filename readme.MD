@@ -23,7 +23,6 @@ The project includes the following steps:
 2. **Model Training**: Several machine learning models are trained, including:
     - Logistic Regression
     - Neural Network (MLPClassifier)
-    - XGBoost
     - Support Vector Machine (SVM)
     - Gradient Boosting
     - Random Forest
@@ -56,7 +55,6 @@ The dataset can be downloaded from the Kaggle Titanic competition [link](https:/
     - Pandas
     - Scikit-learn
     - Category Encoders
-    - XGBoost
     - Matplotlib
     - Seaborn
 
